@@ -457,5 +457,11 @@ li:hover{
     text-align: center;
     height: 1200px;
   }
-
+  .Product-1{
+    width: 200px;
+  }
+  .staff-1{
+    width: 100px;
+    height: 200px;
+  }
 }
